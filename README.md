@@ -1,65 +1,85 @@
 <div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer at work" />  
-
----
-
-### 👋 Hi, I'm **Hamad Mohamed**
-
-🚀 A passionate **Front-End Web Developer** who loves building interactive and user-friendly websites using modern technologies.  
-🎯 Currently focused on mastering **React**, **TailwindCSS**, and **Framer Motion**.
+  <img src="https://media.giphy.com/media/M9g4J06K28Jd1D05jT/giphy.gif" alt="Coding on Laptop" width="250" />
+  <h1>Hey there, I'm Ahmed Mohamed 👋</h1>
+  <h3>A passionate Front-End Web Developer building beautiful and intuitive user experiences.</h3>
+</div>
 
 ---
 
-### 🎧 Vibing to Code With
+### **About Me** 🚀
 
-<details>
-  <summary>🎵 Spotify Playlist</summary>
-  <a href="https://open.spotify.com/user/somnathpaul">
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Now Playing" />
+I specialize in creating clean, responsive, and performant user interfaces. My journey in web development is driven by a passion for solving problems and bringing ideas to life through code. I’m always eager to learn and adapt to new technologies to build modern web applications.
+
+---
+
+### **Skills & Toolkit** 💻
+
+Here are some of the technologies I'm proficient in and use regularly:
+
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/Telegram-SP--XD-blue?style=flat&logo=telegram)](https://t.me/spxd007)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
+</div>
 
 ---
 
-### 🛠 Tech Stack
+### **My GitHub Activity** 📊
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=flat&logo=framer&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<div align="center">
+  <a href="https://github.com/a7med-mo">
+    <img src="https://raw.githubusercontent.com/a7med-mo/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/a7med-mo/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/a7med-mo/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  </a>
+
+  <details>
+    <summary>More stats</summary>
+    <br>
+    <img align="center" src="https://raw.githubusercontent.com/a7med-mo/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+  </details>
+</div>
 
 ---
 
-### 📌 About Me
+### **Let's Connect!** 🤝
 
-```js
-const Hamad = {
-  role: "Front-End Developer",
-  skills: [
-    "React", 
-    "Tailwind CSS", 
-    "Framer Motion", 
-    "JavaScript", 
-    "Next.js", 
-    "HTML", 
-    "CSS", 
-    "Git"
-  ],
-  learning: ["Advanced React Patterns", "Web Performance Optimization"],
-  tools: ["VSCode", "Figma", "Chrome DevTools", "Linux Terminal"],
-  hobbies: ["Building UIs", "Exploring Web Trends", "Linux Tinkering"]
-}
+I'm always open to new opportunities and collaborations. Feel free to reach out and say hello!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/a7med-mo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:a7med-mo@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[Your Portfolio URL]">
+    <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=npm&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <p>Thanks for visiting my profile! Let's build something amazing together.</p>
+</div>
