@@ -1,7 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9g4J06K28Jd1D05jT/giphy.gif" alt="Coding on Laptop" width="250" />
+  <img src="https://github.com/a7med-mo/a7med-mo/blob/main/hellocoders-VEED.gif" alt="Coding on Laptop" width="600" />
+  <br/>
+  <br/>
+  <br/>
   <h1>Hey there, I'm Ahmed Mohamed 👋</h1>
   <h3>A passionate Front-End Web Developer crafting beautiful and intuitive user experiences.</h3>
+</div>
+
+
+<div  align="center">
+  <img src="https://github.com/a7med-mo/a7med-mo/blob/main/Animation%20-%201711213991986.gif" alt="Coding on Laptop" width="200" />
 </div>
 
 ---
