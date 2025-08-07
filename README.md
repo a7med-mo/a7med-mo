@@ -89,25 +89,25 @@ Here are some of the technologies and tools I'm proficient in and use regularly:
 I'm always open to new opportunities and collaborations. Feel free to reach out and say hello!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mohmmed-6806b6328/">
+  <a href="https://www.linkedin.com/in/ahmed-mohmmed">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ahmed.c7.mo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-profile">
+  <a href="https://www.facebook.com/a7med.ma7mmed">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile">
+<!--   <a href="https://www.instagram.com/your-instagram-profile">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/your-twitter-profile">
+  </a> -->
+  <a href="https://x.com/a7med_ma7mmed">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
-  <a href="https://wa.me/your-whatsapp-number">
+  <a href="https://wa.me/01069467433">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://t.me/your-telegram-username">
+  <a href="https://t.me/a7med_ma7mmed">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
