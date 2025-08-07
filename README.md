@@ -44,6 +44,13 @@ Here are some of the technologies and tools I'm proficient in and use regularly:
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </a>
   <a href="#">
+    <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  </a>
+  
+  <a href="#">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
   <a href="#">
@@ -88,21 +95,21 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
   <a href="mailto:ahmed.c7.mo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.facebook.com/a7medMa7mmed">
+  <a href="https://www.facebook.com/your-facebook-profile">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/a7med.ma7mmed">
+  <a href="https://www.instagram.com/your-instagram-profile">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/a7med_ma7mmed">
+  <a href="https://twitter.com/your-twitter-profile">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
-  <a href="https://wa.me/your-whatsapp-01069467433">
+  <a href="https://wa.me/your-whatsapp-number">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-<!--   <a href="https://t.me/your-telegram-@a7med_ma7mmed">
+  <a href="https://t.me/your-telegram-username">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a> -->
+  </a>
 </div>
 
 <div align="center">
