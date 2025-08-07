@@ -6,13 +6,12 @@
   <h1>Hey there, I'm Ahmed Mohamed 👋</h1>
   <h3>A passionate Front-End Web Developer crafting beautiful and intuitive user experiences.</h3>
 </div>
-
-
 <div  align="center">
-  <img src="https://github.com/a7med-mo/a7med-mo/blob/main/Animation%20-%201711213991986.gif" alt="Coding on Laptop" width="200" />
+  <img src="https://github.com/a7med-mo/a7med-mo/blob/main/coding-boy-coding.gif" alt="Coding on Laptop" width="400" />
 </div>
 
 ---
+
 
 ### **About Me** 🚀
 
