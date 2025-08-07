@@ -100,9 +100,9 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
   <a href="https://wa.me/your-whatsapp-01069467433">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://t.me/your-telegram-@a7med_ma7mmed">
+<!--   <a href="https://t.me/your-telegram-@a7med_ma7mmed">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
