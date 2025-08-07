@@ -89,7 +89,7 @@ Here are some of the technologies and tools I'm proficient in and use regularly:
 I'm always open to new opportunities and collaborations. Feel free to reach out and say hello!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mohmmed">
+  <a href="https://www.linkedin.com/in/a7med-ma7mmed">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ahmed.c7.mo@gmail.com">
