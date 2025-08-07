@@ -1,13 +1,11 @@
-<div align="center">
-  <img src="https://github.com/a7med-mo/a7med-mo/blob/main/hellocoders-VEED.gif" alt="Coding on Laptop" width="600" />
+<div align="center"> 
   <br/>
+  <img src="https://github.com/a7med-mo/a7med-mo/blob/main/hellocoders-VEED.gif" alt="Coding on Laptop" width="600" />
+
   <br/>
   <br/>
   <h1>Hey there, I'm Ahmed Mohamed 👋</h1>
   <h3>A passionate Front-End Web Developer crafting beautiful and intuitive user experiences.</h3>
-</div>
-<div  align="center">
-  <img src="https://github.com/a7med-mo/a7med-mo/blob/main/coding-boy-coding.gif" alt="Coding on Laptop" width="400" />
 </div>
 
 ---
@@ -85,13 +83,13 @@ Here are some of the technologies and tools I'm proficient in and use regularly:
 I'm always open to new opportunities and collaborations. Feel free to reach out and say hello!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/a7med-mo">
+  <a href="https://www.linkedin.com/in/ahmed-mohmmed-6806b6328/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:a7med-mo@example.com">
+  <a href="mailto:ahmed.c7.mo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[Your Portfolio URL]">
+  <a href="https://web.telegram.org/a/">
     <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=npm&logoColor=white" alt="Portfolio" />
   </a>
 </div>
