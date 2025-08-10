@@ -92,7 +92,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
   <a href="https://www.linkedin.com/in/a7med-ma7mmed">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ahmed.c7.mo@gmail.com">
+  <a href="mailto:eng.ahmed.mohammed07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/a7med.ma7mmed">
